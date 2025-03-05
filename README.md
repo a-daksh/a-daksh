@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-ROS-blue?style=flat&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Control-MPC%20|%20PID-green?style=flat" />
+  <img src="https://img.shields.io/badge/Control-MPC%20|%20Optimal Control-green?style=flat" />
   <img src="https://img.shields.io/badge/ML-RL%20|%20DeepLearning-orange?style=flat" />
   <img src="https://img.shields.io/badge/Code-Python%20|%20C++-informational?style=flat&logo=python" />
 </p>
@@ -18,9 +18,9 @@
 ---
 
 ## 📜 Publications  
-📌 **[Robustifying RL Agent Bionic Reflex Controllers](https://doi.org/10.1017/S0263574724001838)** *(Robotica, 2024)*  
-📌 **[Grasp Force Optimization Using BMIs](https://arxiv.org/abs/2312.09876)** *(arXiv, 2023)*  
-📌 **[Reinforcement Learning for Bionic Grasp Control](https://arxiv.org/abs/2312.05678)** *(arXiv, 2023)*  
+📌 **[Robustifying RL Agent Bionic Reflex Controllers through Adaptive Control](https://doi.org/10.1017/S0263574724001838)** *(Robotica, 2024)*  
+📌 **[Grasp Force Optimization as BMIs: Deep Learning Approach](https://doi.org/10.48550/arXiv.2312.05034)** *(arXiv, 2023)*  
+📌 **[Reinforcement Learning for Bionic Grasp Control](https://doi.org/10.48550/arXiv.2312.05023)** *(arXiv, 2023)*  
 
 ---
 
