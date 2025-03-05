@@ -10,13 +10,13 @@ I am a **Robotics Master's student at Carnegie Mellon University (MRSD '24-26)**
 
 ## 🔧 Projects & Research  
 
-### 🦾 [RL-Based Bionic Reflex Grasping](https://doi.org/10.1017/S0263574724001838)  
+### 🦾 [RL-Based Bionic Reflex Grasping](https://github.com/a-daksh/5_fingered)  
 **Goal:** Robustifying RL agent bionic reflex controllers using adaptive sliding mode control.  
 🔹 Sim2Real transfer for **grasp force optimization**  
 🔹 Reduced object **slippage by 103%** and **deformation by 197%**  
 🔹 Published in **Robotica (2024)**  
 
-### 🎮 [Kalman Filter-Based Hand Tracking]([https://github.com/dakshadhar/multi-camera-hand-tracking](https://github.com/a-daksh/Kalman_Filter_Based_Sensor_Fusion_for_Multi_Camera_Hand_Tracking))  
+### 🎮 [Kalman Filter-Based Hand Tracking](https://github.com/a-daksh/Kalman_Filter_Based_Sensor_Fusion_for_Multi_Camera_Hand_Tracking)  
 🔹 Sensor fusion of **YOLO + MediaPipe + Kalman Filter**  
 🔹 Multi-camera setup for **real-time joint angle estimation**  
 🔹 Applications in **robotic teleoperation & VR tracking**  
