@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Daksh Adhar  
-### 🤖 Roboticist | 🎯 Reinforcement Learning | 🏥 Medical Robotics  
+### 🤖 Biomimetics | 🎯 Reinforcement Learning | 🏥 Medical Robotics  
 
 I am a **Robotics Master's student at Carnegie Mellon University (MRSD '24-26)**, passionate about **biomimetic systems, reinforcement learning, and humanoid robotics**. My experience spans:  
 ✅ **Reinforcement Learning for Grasping & Control** (Sim2Real, SAC, Adaptive Sliding Mode)  
