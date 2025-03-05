@@ -44,6 +44,4 @@ I am a **Robotics Master's student at Carnegie Mellon University (MRSD '24-26)**
 ---
 
 ## 📫 Let's Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/daksh-adhar/)  
-🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=3LjYsLwAAAAJ)  
-🔗 [Personal Website (Coming Soon!)]()  
+🔗 [LinkedIn](https://www.linkedin.com/in/daksh-adhar/) | 🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=3LjYsLwAAAAJ) | 🔗 [Personal Website (Coming Soon!)]()  
