@@ -12,8 +12,8 @@
 
 ## 🚀 About Me  
 - 🎓 **MS in Robotics (MRSD '24-26)** at **Carnegie Mellon University**  
-- 🔬 Passionate about **biomimetic systems, reinforcement learning, and medical robotics**  
-- 📚 **Research:** Humanoids, Sim2Real Transfer, RL-Based Grasping, Control  
+- 📚 **BTech in Engineering Physics** at **IIT Guwahati**
+- 🔬 **Research:** Humanoids, Sim2Real Transfer, RL-Based Grasping, Control  
 
 ---
 
