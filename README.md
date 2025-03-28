@@ -34,10 +34,15 @@
 
 ---
 
+
 ## 📫 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daksh-adhar/"><img src="https://img.shields.io/badge/LinkedIn-Daksh%20Adhar-blue?style=flat&logo=linkedin"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=3LjYsLwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-green?style=flat&logo=googlescholar"></a>
   <a href="https://dakshadhar.com"><img src="https://img.shields.io/badge/Website-Coming%20Soon-orange?style=flat"></a>
+</p>
+
+<p align="center">
+  <img src="[https://media.giphy.com/media/1ikx1IX8yS9Rj2knhV/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2N2N5MzAzZXZlb2xvd2h6cXFud2k5NTR2aHZvZDR1bzF3YXE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7x3PHPSMXSONHFuOK4/giphy.gif)" alt="robot gif" width="500"/>
 </p>
