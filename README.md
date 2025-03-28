@@ -44,5 +44,6 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/1ikx1IX8yS9Rj2knhV/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2N2N5MzAzZXZlb2xvd2h6cXFud2k5NTR2aHZvZDR1bzF3YXE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7x3PHPSMXSONHFuOK4/giphy.gif)" alt="robot gif" width="500"/>
+  <img src="https://media.giphy.com/media/7x3PHPSMXSONHFuOK4/giphy.gif" alt="robot gif" width="500"/>
 </p>
+
