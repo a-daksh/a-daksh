@@ -17,13 +17,6 @@
 
 ---
 
-## 📜 Publications  
-📌 **[Robustifying RL Agent Bionic Reflex Controllers through Adaptive Control](https://doi.org/10.1017/S0263574724001838)** *(Robotica, 2024)*  
-📌 **[Grasp Force Optimization as BMIs: Deep Learning Approach](https://doi.org/10.48550/arXiv.2312.05034)** *(arXiv, 2023)*  
-📌 **[Reinforcement Learning for Bionic Grasp Control](https://doi.org/10.48550/arXiv.2312.05023)** *(arXiv, 2023)*  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
