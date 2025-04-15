@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Daksh Adhar</h1>
-<h3 align="center">🤖 Biomimetics | 🎯 Reinforcement Learning | 🏥 Medical Robotics</h3>
+<h1 align="center">Hi, I'm Daksh Adhar</h1>
+<h3 align="center">Biomimetics | Reinforcement Learning | Medical Robotics</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-ROS-blue?style=flat&logo=ros&logoColor=white" />
@@ -10,14 +10,14 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 **MS in Robotics (MRSD '24-26)** at **Carnegie Mellon University**  
-- 📚 **BTech in Engineering Physics** at **IIT Guwahati**
-- 🔬 **Research:** Humanoids, Sim2Real Transfer, RL-Based Grasping, Control  
+## About Me  
+- **MS in Robotics (MRSD '24-26)** at **Carnegie Mellon University**  
+- **BTech in Engineering Physics** at **IIT Guwahati**
+- **Research:** Humanoids, Sim2Real Transfer, RL-Based Grasping, Control  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a-daksh&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros,tensorflow,pytorch,docker,linux,ubuntu,git,github,raspberrypi,arduino" />
@@ -35,7 +35,7 @@
 ---
 
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daksh-adhar/"><img src="https://img.shields.io/badge/LinkedIn-Daksh%20Adhar-blue?style=flat&logo=linkedin"></a>
