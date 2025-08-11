@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Robotics-ROS-blue?style=flat" />
   <img src="https://img.shields.io/badge/Control-MPC%20|%20Optimal Control-green?style=flat" />
   <img src="https://img.shields.io/badge/ML-RL%20|%20DeepLearning-orange?style=flat" />
-  <img src="https://img.shields.io/badge/Code-Python%20|%20C++-informational?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Code-Python%20|%20C++-informational?style=flat" />
 </p>
 
 ---
