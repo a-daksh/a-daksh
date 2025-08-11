@@ -13,7 +13,7 @@
 ## About Me  
 - **MS in Robotics (MRSD '24-26)** at **Carnegie Mellon University**  
 - **BTech in Engineering Physics** at **IIT Guwahati**
-- **Research:** Humanoids, Sim2Real Transfer, RL-Based Grasping, Control  
+- **Research:** Humanoids, RL, Grasping and Manipulation, Controls 
 
 ---
 
