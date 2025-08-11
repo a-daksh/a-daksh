@@ -29,7 +29,7 @@
 ## Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros,tensorflow,pytorch,docker,linux,ubuntu,PostgreSQL,git,github,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros,tensorflow,pytorch,docker,linux,ubuntu,postgresql,git,github,raspberrypi,arduino" />
 </p>
 
 ---
