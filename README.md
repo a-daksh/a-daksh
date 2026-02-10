@@ -8,7 +8,7 @@
 
 <img align="right" alt="doggo" width="350" src="./215285.gif">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a-daksh&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats-plus.vercel.app/api?username=a-daksh&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros,tensorflow,pytorch,docker,linux,ubuntu,postgresql,git,github,raspberrypi,arduino" />
